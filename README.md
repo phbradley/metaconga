@@ -1,7 +1,7 @@
 # metaconga
 Scripts and files for meta-analysis with conga. Check back for code and dataset release with the metaconga paper.  
 
-## Dev branch of the conga github repository with code metaconga feature matching
+## Dev branch of the CoNGA repository with code for metaconga feature matching
 
 https://github.com/phbradley/conga/tree/metaconga_match
 
